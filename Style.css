@@ -1,0 +1,52 @@
+body{
+    background-color: #d6e2f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'times new roman', sans-serif;
+}
+
+.ima-con{
+    background-color: white;
+    width:250px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    height: 400px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+}
+
+.ima{
+    width: 250px;
+    border-radius: 15px;
+}
+
+hr{
+    border: none;
+    height: 3px;
+    background-color: #3498db7c;
+    width: 150px;
+}
+
+h2{
+padding-top: 10px;}
+
+h2{
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #333;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+
+p{
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
